@@ -1,0 +1,28 @@
+name: techit
+favicon: null
+layout_spectrum: 0.76139822229743
+typography_spectrum: 0.8764477600343525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3203602267894894
+  lightness: 0.30085724708624184
+  saturation: 0.2745489780791104
+  rhythmicContrast: 0.9692393492441624
+purpose: []
